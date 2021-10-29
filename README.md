@@ -3,4 +3,4 @@
 UwU
 
 
-<img src="user-images.githubusercontent.com/89632322/139389617-18300b47-b92e-43f4-806c-1b00e10d526c.jpg" width="350">
+![20200203_165903](https://user-images.githubusercontent.com/89632322/139389883-b7bc6c27-6a88-4d19-b6ff-e8144d8ab343.jpg)
