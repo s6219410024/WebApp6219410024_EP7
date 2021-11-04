@@ -1,0 +1,161 @@
+.mainheader {
+    width: 100%;
+    height: 57px;
+    left: 0%;
+    top: 0%;   
+    position: fixed;
+    border-bottom: 1px solid #f1f3f6;
+    background-color: #ffffff;
+}
+.col{
+    width: 1140px;
+    height: 100%;
+    margin: 0 auto;   
+    position: relative;
+}
+.logo{
+    position: absolute;
+    padding: 12px 0;
+    top: 0;
+    left: 0;
+    width: 128px;
+    padding: 12px 0;
+    margin: 0;
+}
+.logo .logo-text {
+    position: absolute;
+    top: 23px;
+    left: 45px;
+    width: 67px;
+}
+.logo-png{
+    
+    width: 35px;
+    
+}
+.menu{
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+      
+}
+.menu a.menu1{
+    color: #3ed995;
+}
+.menu a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    display: inline-block;
+    position: relative;
+    font-size: 20px;
+}
+.menu a:hover{
+    color:#3ed995;
+}
+.mainbtn{
+    border: none;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    padding: 20px 0 1px 1px;
+    cursor: pointer;
+    border: none;
+    background: transparent ;
+}
+.btn{
+    width: 25px;
+}
+.text{
+    font-family: 'Kanit', sans-serif;
+    width: 550px;
+    margin-top: 80px;
+    margin-left: 25%;
+    padding: 0px 200px;
+}
+.text h2{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+.table{
+    
+    font-family: 'Kanit', sans-serif;
+    max-width: 1200px;
+    height: 750px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+}
+.space{
+    
+    padding: 40px 40px;
+}
+.f-weight{
+    font-size: 23px;
+    
+}
+.f-height{
+    font-size: 23px;
+}
+.i-weight{
+    font: 34px/34px 'Kanit', sans-serif;
+    color: #043AEC;
+    padding: 25px 0 0 0;
+    background: none;
+    width: 35%;
+    border: none;
+    border-bottom: 1px
+    solid #c9c9ca;   
+    border-radius: 0;
+    
+}
+.i-height{
+    font: 34px/34px 'Kanit', sans-serif;
+    color: #043AEC;
+    padding: 25px 0 0 0;
+    background: none;
+    width: 35%;
+    border: none;
+    border-bottom: 1px
+    solid #c9c9ca;   
+    border-radius: 0;
+    
+}
+.cal{
+    font-size: 18px;
+    width: 35%;
+    height: 70px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background: #cddaec;  
+    font-family: 'Kanit', sans-serif; 
+}
+.cal:hover{
+    background-color: rgb(161, 182, 194);
+}
+.resultBMI{
+    text-align: center;
+    width: 35%;
+    padding: 20px;
+    box-shadow: -9px -9px 16px rgb(255 255 255 / 80%), 9px 9px 16px rgb(216 221 228 / 80%);
+    border-radius: 7px;
+    margin-left: 31%;
+}
+.result{
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    padding: 20px;
+    margin: 0 auto;
+}
+.resultBMI p{
+    font-family: 'Kanit', sans-serif;
+    font-size: 25px;
+}
+.resultBMI span{
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+}
